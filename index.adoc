@@ -44,6 +44,8 @@ C#, WPF
 
 Patterns
 
+SQLite
+
 == Библиотеки
 
 Caliburn.Micro
@@ -53,4 +55,8 @@ MahApps.Metro
 Nlog
 
 XUnit
+
+CefSharp
+
+== Проектирование
 
