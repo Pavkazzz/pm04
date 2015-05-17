@@ -38,7 +38,7 @@
 
 == Технологии
 
-WIndows
+Windows
 
 C#, WPF
 
@@ -60,3 +60,5 @@ CefSharp
 
 == Проектирование
 
+[[schema]]
+image::schema.png[caption="Рисунок 1: ", title="Структурная схема", alt="Структурная схема", width="900", height="500"]
