@@ -50,25 +50,25 @@
 
 == Технологии
 
-Windows
+.Windows
 
-C#, WPF
+.C#, WPF
 
-Patterns
+.Patterns
 
-SQLite
+.SQLite
 
 == Библиотеки
 
-Caliburn.Micro
+* Caliburn.Micro
 
-MahApps.Metro
+* MahApps.Metro
 
-Nlog
+* Nlog
 
-XUnit
+* XUnit
 
-CefSharp
+* CefSharp
 
 == Проектирование
 
