@@ -75,5 +75,6 @@
 [[schema]]
 image::structur.png[caption="Рисунок 1– ", title="Структурная схема", alt="Структурная схема", width="600", height="500"]
 
-== Проектирование
+== Видео
 
+video::capture-1.mp4[width=800,options="autoplay"]
