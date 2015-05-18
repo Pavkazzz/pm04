@@ -50,13 +50,13 @@
 
 == Технологии
 
-.Windows
+* Windows
 
-.C#, WPF
+* C#, WPF
 
-.Patterns
+* Patterns
 
-.SQLite
+* SQLite
 
 == Библиотеки
 
